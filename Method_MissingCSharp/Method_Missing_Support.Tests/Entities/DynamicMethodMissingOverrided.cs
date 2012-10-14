@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Method_MissingCSharp.Entities
+namespace MetaProgrammingCSharp.Tests.Entities
 {
     public class DynamicMethodMissingOverrided : Dynamic
     {

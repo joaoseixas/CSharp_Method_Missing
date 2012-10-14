@@ -4,7 +4,7 @@ using System.Dynamic;
 using System.Linq;
 
 
-namespace Method_MissingCSharp
+namespace MetaProgrammingCSharp
 {
     public class Dynamic : DynamicObject
     {

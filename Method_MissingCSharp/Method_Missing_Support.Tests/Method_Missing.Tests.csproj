@@ -6,7 +6,7 @@
     <ProjectGuid>{D9CCB543-41CC-466D-AE3F-509C65ACEA32}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Method_Missing_Support.Tests</RootNamespace>
+    <RootNamespace>MetaProgrammingCSharp.Tests</RootNamespace>
     <AssemblyName>Method_Missing_Support.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

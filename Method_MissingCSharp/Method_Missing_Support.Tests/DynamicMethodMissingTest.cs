@@ -1,11 +1,11 @@
 ﻿using System;
-using Method_MissingCSharp;
+using MetaProgrammingCSharp;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Dynamic;
 using Microsoft.CSharp;
-using Method_MissingCSharp.Entities;
+using MetaProgrammingCSharp.Tests.Entities;
 
-namespace Method_Missing_Support.Tests
+namespace MetaProgrammingCSharp.Tests
 {
     [TestClass]
     public class DynamicMethodMissingTest
