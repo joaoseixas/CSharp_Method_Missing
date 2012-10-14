@@ -52,6 +52,8 @@
   </Choose>
   <ItemGroup>
     <Compile Include="DynamicMethodMissingTest.cs" />
+    <Compile Include="Entities\DynamicMethodMissingOverrided.cs" />
+    <Compile Include="Entities\DynamicWithoutOverrideMethodMissing.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
