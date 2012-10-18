@@ -53,8 +53,15 @@
   <ItemGroup>
     <Compile Include="DynamicMethodMissingTest.cs" />
     <Compile Include="Entities\DynamicMethodMissingOverrided.cs" />
+    <Compile Include="Entities\DynamicPerson.cs" />
     <Compile Include="Entities\DynamicWithoutOverrideMethodMissing.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="DynamicRespondToTests.cs" />
+    <Compile Include="GetDynamicMemberNamesTests.cs" />
+    <Compile Include="GetStaticMemberNamesTests.cs" />
+    <Compile Include="GetAllMemberNamesTests.cs" />
+    <Compile Include="TryGetMemberTests.cs" />
+    <Compile Include="TrySetMemberTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Method_MissingCSharp\MetaProgrammingCSharp.csproj">

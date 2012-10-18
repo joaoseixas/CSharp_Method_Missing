@@ -15,7 +15,7 @@ namespace MetaProgrammingCSharp.Tests
         public void Should_Throw_MissingMethodException_When_Method_Doesnt_Exists()
         {
             //Arrange
-            dynamic dynamicObject = new Dynamic();
+            dynamic dynamicObject = new MetaProgrammingCSharp.Dynamic();
             //Act
             dynamicObject.HelloWorld();
 
